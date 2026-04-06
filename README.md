@@ -4,65 +4,90 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=35&pause=1000&color=0078D4&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;React.js+|+ASP.NET+MVC;Microsoft+Certified+Azure;Futsal+District+Champion+🏆" alt="Typing SVG" />
 </p>
 
-### 💻 Perfil Profissional
+## 🖥️ Perfil Profissional
 * 🎓 **Educação:** Técnico de Gestão e Programação de Sistemas Informáticos.
 * 🚀 **Foco:** Desenvolvimento Full Stack com foco em soluções dinâmicas e escaláveis.
 * ☁️ **Cloud:** Certificado em **Microsoft Azure Fundamentals (AZ-900)**.
-* ⚽ **Curiosidade:** Campeão Distrital de Futsal. Disciplina e trabalho em equipa levados do campo para o código!
+* ⚽ **Curiosidade:** Campeão Distrital de Futsal. Disciplina do campo levada para o código!
 
 ---
 
-### 🛠️ Tecnologias & Ferramentas
+## 👨‍💻 Stack Tecnológica
+*Focada em Azul e Branco para um look moderno.*
 
-**Frontend & Backend**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,cs,dotnet,php,c&theme=light" />
-</p>
-
-**Base de Dados & Tools**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,visualstudio,vscode,git,github,azure&theme=light" />
-</p>
-
----
-
-### 📈 Estatísticas e Atividade
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rodrigofariarocha&show_icons=true&theme=transparent&title_color=0078D4&icon_color=0078D4&text_color=555&hide_border=true&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigofariarocha&layout=compact&langs_count=7&theme=transparent&title_color=0078D4&text_color=555&hide_border=true"/>
-</p>
+`Frontend` | `Backend` | `Database` | `Cloud & Tools`
+:--- | :--- | :--- | :---
+`HTML5` | `C#` | `MySQL` | `Azure`
+`CSS3` | `.NET` | `PostgreSQL` | `Git`
+`JavaScript` | `ASP.NET MVC` | | `GitHub`
+`TypeScript` | `PHP` | | `VS Code`
+`React.js` | `C` | | `Visual Studio`
 
 ---
 
-### 🎮 Mini Game: Debugging Quest
-*Escolhe uma ação para resolver o bug no servidor:*
+## 🎮 Code-Man: The Debugging Maze
+*Ajuda o Code-Man (C) a comer o Bug (B) desviando dos Erros (E)!*
 
-| [🔍 Analisar Logs](https://github.com/rodrigofariarocha#log) | [☕ Fazer uma Pausa](https://github.com/rodrigofariarocha#coffee) | [💡 Pedir Code Review](https://github.com/rodrigofariarocha#review) |
-| :--- | :--- | :--- |
+### Labirinto Atual:
+
+#######################
+# . . . E . . . . . #
+# . ### . ### . E . #
+# C # B # . # . # # #
+# . ### . ### . E . #
+# . . . . . . . . . #
+#######################
+
+Qual é a tua jogada?
+
+Clique abaixo para ver o resultado da sua escolha:
 
 <details>
-<summary><b>Ver desfecho da jogada</b></summary>
+<summary><b>1. Move: C → Direita (Caminho Livre)</b></summary>
+Plaintext
 
-* **Logs:** Encontraste um erro de sintaxe na linha 42. Bug corrigido! ✅
-* **Pausa:** Voltaste com a mente fresca e percebeste que o servidor estava desligado. 🧠
-* **Review:** O teu colega encontrou um ponto e vírgula em falta. Equipa é tudo! 🤝
+#######################
+# . . . E . . . . . #
+# . ### . ### . E . #
+# . C B # . # . # # #
+# . ### . ### . E . #
+# . . . . . . . . . #
+#######################
+
+Code-Man aproximou-se do Bug! Preparar para o Debug final! ✅
+
 </details>
 
----
+<details>
+<summary><b>2. Move: C ↑ Cima (Caminho Bloqueado)</b></summary>
 
-### 📫 Contacto & Redes
-<p align="left">
-<a href="mailto:rodrigo.faria.rocha1234@gmail.com">
-  <img src="https://img.shields.io/badge/Email-0078D4?style=flat-square&logo=gmail&logoColor=white" />
-</a>
-<a href="https://linkedin.com/in/rodrigofariarocha">
-  <img src="https://img.shields.io/badge/LinkedIn-0078D4?style=flat-square&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://www.instagram.com/rodrigofrochaa/">
-  <img src="https://img.shields.io/badge/Instagram-0078D4?style=flat-square&logo=instagram&logoColor=white" />
-</a>
-</p>
+Bateste na parede. Paredes são "Null Pointers". Voltar para a posição inicial. ❌
+
+</details>
+
+<details>
+<summary><b>3. Move: C ↓ Baixo (Rumo ao Erro)</b></summary>
+Plaintext
+
+#######################
+# . . . E . . . . . #
+# . ### . ### . E . #
+# . # B # . # . # # #
+# C ### . ### . E . #
+# . . . . . . . . . #
+#######################
+
+Cuidado! Estás a ir direto para o Erro (E)! ⚠️
+
+</details>
+📫 Contacto & Redes
+
+Para manter o visual limpo, usei links de texto simples:
+
+🌐 LinkedIn
+📧 Email
+📸 Instagram
 
 <p align="right">
-  <i>Simplicidade é a sofisticação máxima.</i>
+<i>"A simplicidade é o último grau da sofisticação."</i>
 </p>
