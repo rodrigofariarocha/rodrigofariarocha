@@ -1,16 +1,50 @@
-## Hi there 👋
+# Olá, eu sou o Rodrigo Rocha! 👋
 
-<!--
-**rodrigofariarocha/rodrigofariarocha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0078D4&height=200&section=header&text=Full%20Stack%20Developer&fontSize=70&animation=fadeIn" />
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&width=500&lines=Junior+Full+Stack+Developer;React.js+|+ASP.NET+MVC;Microsoft+Certified:+Azure+Fundamentals;Futsal+District+Champion+🏆" alt="Typing SVG" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 💻 Perfil Profissional
+* [cite_start]🎓 **Educação:** Técnico de Gestão e Programação de Sistemas Informáticos[cite: 41].
+* [cite_start]🚀 **Foco:** Desenvolvimento Full Stack com foco em soluções dinâmicas e escaláveis[cite: 20].
+* [cite_start]☁️ **Cloud:** Certificado em **Microsoft Azure Fundamentals (AZ-900)**.
+* [cite_start]⚽ **Curiosidade:** Campeão Distrital de Futsal (2ª Divisão)[cite: 38]. [cite_start]Disciplina e trabalho em equipa levados do campo para o código![cite: 21].
+
+### 🛠️ Tecnologias & Ferramentas
+**Frontend & Backend**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,cs,dotnet,php,c" />
+</p>
+
+**Base de Dados & Tools**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,visualstudio,vscode,git,github,azure" />
+</p>
+
+### 📈 Estatísticas e Atividade
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rodrigofariarocha&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigofariarocha&layout=compact&langs_count=7&theme=tokyonight"/>
+</p>
+
+---
+
+### 📫 Contacto & Redes
+<p align="left">
+<a href="mailto:rodrigo.faria.rocha1234@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://www.instagram.com/rodrigofrochaa/" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0078D4&height=100&section=footer" />
+</p>
