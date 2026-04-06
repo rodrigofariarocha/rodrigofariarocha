@@ -1,51 +1,68 @@
-# Rodrigo Rocha
-**Junior Full Stack Developer** | React.js & ASP.NET MVC | Azure Certified
+# Olá, eu sou o Rodrigo Rocha! 👋
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=35&pause=1000&color=0078D4&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;React.js+|+ASP.NET+MVC;Microsoft+Certified+Azure;Futsal+District+Champion+🏆" alt="Typing SVG" />
+</p>
+
+### 💻 Perfil Profissional
+* 🎓 **Educação:** Técnico de Gestão e Programação de Sistemas Informáticos.
+* 🚀 **Foco:** Desenvolvimento Full Stack com foco em soluções dinâmicas e escaláveis.
+* ☁️ **Cloud:** Certificado em **Microsoft Azure Fundamentals (AZ-900)**.
+* ⚽ **Curiosidade:** Campeão Distrital de Futsal. Disciplina e trabalho em equipa levados do campo para o código!
 
 ---
 
-## 🛠️ No que estou a trabalhar agora
+### 🛠️ Tecnologias & Ferramentas
 
-Atualmente, estou focado em aprimorar minhas competências e desenvolver projetos nas seguintes áreas:
+**Frontend & Backend**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,cs,dotnet,php,c&theme=light" />
+</p>
 
-* **[Core]** Desenvolvendo aplicações web escaláveis com a stack **React** (Frontend) e **.NET/C#** (Backend).
-* **[Cloud]** Aprofundando conhecimentos em **Microsoft Azure** pós-certificação AZ-900, explorando App Services e SQL Databases.
-* **[Estudo]** Implementando padrões de design e arquitetura limpa (Clean Architecture) em projetos pessoais.
+**Base de Dados & Tools**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,visualstudio,vscode,git,github,azure&theme=light" />
+</p>
+
+---
+
+### 📈 Estatísticas e Atividade
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rodrigofariarocha&show_icons=true&theme=transparent&title_color=0078D4&icon_color=0078D4&text_color=555&hide_border=true&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigofariarocha&layout=compact&langs_count=7&theme=transparent&title_color=0078D4&text_color=555&hide_border=true"/>
+</p>
 
 ---
 
-## 🎮 Mini Jogo: Developer's Choice
-*Uma pequena simulação interativa (clique nos links para "jogar")*
+### 🎮 Mini Game: Debugging Quest
+*Escolhe uma ação para resolver o bug no servidor:*
 
-#### O bug apareceu! O que você faz?
-
-1.  **[Tentar resolver com Stack Overflow](https://github.com/rodrigofariarocha/rodrigofariarocha#resultado-so)**
-2.  **[Ler a documentação oficial](https://github.com/rodrigofariarocha/rodrigofariarocha#resultado-doc)**
-3.  **[Pedir ajuda ao Senior](https://github.com/rodrigofariarocha/rodrigofariarocha#resultado-senior)**
-
----
+| [🔍 Analisar Logs](https://github.com/rodrigofariarocha#log) | [☕ Fazer uma Pausa](https://github.com/rodrigofariarocha#coffee) | [💡 Pedir Code Review](https://github.com/rodrigofariarocha#review) |
+| :--- | :--- | :--- |
 
 <details>
-<summary>📍 Resultados (Clique para ver o desfecho)</summary>
+<summary><b>Ver desfecho da jogada</b></summary>
 
-#### <a id="resultado-so">1. Stack Overflow</a>
-Você copiou o código e agora tem *três* novos bugs. Mas hey, pelo menos aquele primeiro desapareceu! **(Game Over... ou não?)**
-
-#### <a id="resultado-doc">2. Documentação Oficial</a>
-Demorou, mas você entendeu o conceito. O bug foi resolvido na raiz e o código ficou limpo. **(Você Venceu!)**
-
-#### <a id="resultado-senior">3. Pedir ajuda ao Senior</a>
-O Senior olhou para a tela, suspirou e disse: "Você esqueceu o ponto e vírgula." Você aprendeu a lição. **(Level Up em Atenção!)**
-
+* **Logs:** Encontraste um erro de sintaxe na linha 42. Bug corrigido! ✅
+* **Pausa:** Voltaste com a mente fresca e percebeste que o servidor estava desligado. 🧠
+* **Review:** O teu colega encontrou um ponto e vírgula em falta. Equipa é tudo! 🤝
 </details>
 
 ---
 
-## 👨‍💻 Stack Tecnológica
+### 📫 Contacto & Redes
+<p align="left">
+<a href="mailto:rodrigo.faria.rocha1234@gmail.com">
+  <img src="https://img.shields.io/badge/Email-0078D4?style=flat-square&logo=gmail&logoColor=white" />
+</a>
+<a href="https://linkedin.com/in/rodrigofariarocha">
+  <img src="https://img.shields.io/badge/LinkedIn-0078D4?style=flat-square&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://www.instagram.com/rodrigofrochaa/">
+  <img src="https://img.shields.io/badge/Instagram-0078D4?style=flat-square&logo=instagram&logoColor=white" />
+</a>
+</p>
 
-`HTML5` `CSS3` `JavaScript` `React.js` | `C#` `.NET` `ASP.NET MVC` `PHP` | `MySQL` | `Git` `Azure`
-
----
-
-## 📫 Contacto
-
-[Email](mailto:rodrigo.faria.rocha1234@gmail.com) | [Instagram](https://www.instagram.com/rodrigofrochaa/) | [LinkedIn](https://linkedin.com/in/seu-usuario)
+<p align="right">
+  <i>Simplicidade é a sofisticação máxima.</i>
+</p>
