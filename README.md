@@ -4,90 +4,56 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=35&pause=1000&color=0078D4&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;React.js+|+ASP.NET+MVC;Microsoft+Certified+Azure;Futsal+District+Champion+🏆" alt="Typing SVG" />
 </p>
 
-## 🖥️ Perfil Profissional
+### 💡 Sobre Mim
+Desenvolvedor focado em criar soluções modernas, elegantes e eficientes. Trago a disciplina e o espírito de equipa do **Futsal** para o rigor do **Código**.
+
 * 🎓 **Educação:** Técnico de Gestão e Programação de Sistemas Informáticos.
-* 🚀 **Foco:** Desenvolvimento Full Stack com foco em soluções dinâmicas e escaláveis.
 * ☁️ **Cloud:** Certificado em **Microsoft Azure Fundamentals (AZ-900)**.
-* ⚽ **Curiosidade:** Campeão Distrital de Futsal. Disciplina do campo levada para o código!
+* 🚀 **Foco Atual:** Desenvolvimento Full Stack com foco em ecossistemas .NET e React.
 
 ---
 
-## 👨‍💻 Stack Tecnológica
-*Focada em Azul e Branco para um look moderno.*
-
-`Frontend` | `Backend` | `Database` | `Cloud & Tools`
-:--- | :--- | :--- | :---
-`HTML5` | `C#` | `MySQL` | `Azure`
-`CSS3` | `.NET` | `PostgreSQL` | `Git`
-`JavaScript` | `ASP.NET MVC` | | `GitHub`
-`TypeScript` | `PHP` | | `VS Code`
-`React.js` | `C` | | `Visual Studio`
+### 🛠️ Tecnologias & Stack
+<p align="left">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSharp-239120?style=for-the-badge&logo=csharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+</p>
 
 ---
 
-## 🎮 Code-Man: The Debugging Maze
-*Ajuda o Code-Man (C) a comer o Bug (B) desviando dos Erros (E)!*
+### 🎮 Mini Game: Code-Man
+*O código tem um bug! Ajuda o Code-Man a chegar ao objetivo:*
 
-### Labirinto Atual:
-
-#######################
-# . . . E . . . . . #
-# . ### . ### . E . #
-# C # B # . # . # # #
-# . ### . ### . E . #
-# . . . . . . . . . #
-#######################
-
-Qual é a tua jogada?
-
-Clique abaixo para ver o resultado da sua escolha:
+`[ 👾 ] . . . [ 🟡 ] . . . [ 🏆 ]`
 
 <details>
-<summary><b>1. Move: C → Direita (Caminho Livre)</b></summary>
-Plaintext
+<summary><b>🕹️ CLIQUE PARA JOGAR</b></summary>
 
-#######################
-# . . . E . . . . . #
-# . ### . ### . E . #
-# . C B # . # . # # #
-# . ### . ### . E . #
-# . . . . . . . . . #
-#######################
-
-Code-Man aproximou-se do Bug! Preparar para o Debug final! ✅
+1. **Esquerda:** `[ 👾 ] ← [ 🟡 ]` -> *Erro 404: Foste comido pelo bug!* 💀
+2. **Direita:** `[ 🟡 ] → [ 🏆 ]` -> *Deploy com sucesso! Bug corrigido.* 🚀
 
 </details>
 
-<details>
-<summary><b>2. Move: C ↑ Cima (Caminho Bloqueado)</b></summary>
+---
 
-Bateste na parede. Paredes são "Null Pointers". Voltar para a posição inicial. ❌
+### 📊 Estatísticas
+<p align="center">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=rodrigofariarocha&show_icons=true&theme=transparent&title_color=0078D4&icon_color=0078D4&text_color=555&hide_border=true&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigofariarocha&layout=compact&theme=transparent&title_color=0078D4&text_color=555&hide_border=true"/>
+</p>
 
-</details>
+---
 
-<details>
-<summary><b>3. Move: C ↓ Baixo (Rumo ao Erro)</b></summary>
-Plaintext
-
-#######################
-# . . . E . . . . . #
-# . ### . ### . E . #
-# . # B # . # . # # #
-# C ### . ### . E . #
-# . . . . . . . . . #
-#######################
-
-Cuidado! Estás a ir direto para o Erro (E)! ⚠️
-
-</details>
-📫 Contacto & Redes
-
-Para manter o visual limpo, usei links de texto simples:
-
-🌐 LinkedIn
-📧 Email
-📸 Instagram
+### 📫 Contacto
+<p align="left">
+<a href="mailto:rodrigo.faria.rocha1234@gmail.com"><img src="https://img.shields.io/badge/Gmail-0078D4?style=flat-square&logo=gmail&logoColor=white" /></a>
+<a href="https://linkedin.com/in/rodrigofariarocha"><img src="https://img.shields.io/badge/LinkedIn-0078D4?style=flat-square&logo=linkedin&logoColor=white" /></a>
+<a href="https://instagram.com/rodrigofrochaa/"><img src="https://img.shields.io/badge/Instagram-0078D4?style=flat-square&logo=instagram&logoColor=white" /></a>
+</p>
 
 <p align="right">
-<i>"A simplicidade é o último grau da sofisticação."</i>
+  <i>"Simplicidade é o último grau da sofisticação."</i>
 </p>
