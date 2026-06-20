@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:0D1117&height=150&section=header&text=RODRIGO%20ROCHA&fontColor=00FF41&fontSize=40&fontAlignY=38&desc=%3E%20junior_full_stack_developer&descAlignY=62&descSize=18&descColor=C9D1D9&fontFamily=Fira+Code" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=%24+whoami;React+%7C+C%23+%2F+ASP.NET+%7C+PHP+%7C+SQL;Based+in+Lisbon%2C+Portugal;Open+to+Freelance+%26+Junior+Roles)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=650&lines=%24+whoami;Full+Stack+Dev+Intern+%40+Unicage;Migrating+Next.js+%E2%86%92+Astro+%2B+Go+backend;Open+to+Freelance+%26+Junior+Roles)](https://git.io/typing-svg)
 
 ![Location](https://img.shields.io/badge/📍-Queijas,_Lisbon-0D1117?style=flat-square&labelColor=0D1117&color=00FF41)
 ![Last Commit](https://img.shields.io/github/last-commit/rodrigofariarocha/rodrigofariarocha?style=flat-square&labelColor=0D1117&color=00FF41)
@@ -14,9 +14,13 @@
 
 ## `$ whoami`
 
-Estudante de TI com base sólida em desenvolvimento full stack. Capacidade comprovada de gerir uma agenda exigente — concilio os estudos com dois trabalhos part-time e uma rotina de futsal competitivo, sem deixar cair a qualidade em nenhuma das frentes.
+Estudante de TI com base sólida em desenvolvimento full stack. Atualmente a estagiar na **Unicage**, numa equipa que está a migrar a plataforma **MyTherapySpaces** de Next.js para Astro, com um novo backend em Go.
+
+Capacidade comprovada de gerir uma agenda exigente — concilio o estágio, os estudos, dois trabalhos part-time e uma rotina de futsal competitivo, sem deixar cair a qualidade em nenhuma das frentes.
 
 Procuro projetos freelance e oportunidades júnior onde possa aplicar o que aprendi em produtos reais.
+
+> 🔭 **Atualmente a trabalhar em:** migração Next.js → Astro + backend Go (MyTherapySpaces, via Unicage)
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:00FF41&height=3" width="100%"/>
 
@@ -24,11 +28,10 @@ Procuro projetos freelance e oportunidades júnior onde possa aplicar o que apre
 
 | Categoria | Tecnologias |
 |:--|:--|
-| **Frontend** | React.js · HTML5 · CSS3 · JavaScript |
-| **Backend** | C# · ASP.NET MVC · PHP · C |
+| **Frontend** | React.js · Astro · HTML5 · CSS3 · JavaScript |
+| **Backend** | Go · C# · ASP.NET MVC · PHP · C |
 | **Bases de Dados** | SQL · DBeaver |
-| **Ferramentas** | Git · Visual Studio |
-| **A explorar** | Astro · Go |
+| **Ferramentas & Práticas** | Git · Visual Studio · Software Testing |
 | **Soft Skills** | Customer Service · Time Management · Teamwork |
 
 <div align="center">
@@ -68,8 +71,22 @@ Procuro projetos freelance e oportunidades júnior onde possa aplicar o que apre
 
 ## `$ cat experience.log`
 
+**Full Stack Developer Intern** · Unicage
+`2026 — Presente (Estágio)`
+
+Integrado numa equipa de desenvolvimento na migração e evolução da plataforma **MyTherapySpaces** — um marketplace que conecta utilizadores a profissionais de bem-estar e terapeutas certificados.
+
+- Migração do frontend de **Next.js para Astro**, com foco em performance e redução de JavaScript desnecessário
+- Desenvolvimento de um novo **backend em Go** para suportar a arquitetura migrada
+- Participação ativa no processo de testes, garantindo estabilidade e paridade funcional durante a transição entre stacks
+- Colaboração na renovação da identidade visual da plataforma, em conjunto com a equipa de design
+
+`Stack: Astro · Go · JavaScript · Testing`
+
+<br/>
+
 **Junior Web Developer Intern** · Multimac Hitto Innovation
-`2023 — 2024 (Internship)`
+`2023 — 2024 (Estágio)`
 - Desenvolvimento de soluções web dinâmicas com PHP, JavaScript e HTML
 - Manutenção e otimização de sistemas internos
 - Primeiro contacto real com um ambiente profissional de desenvolvimento de software
