@@ -2,9 +2,9 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:0D1117&height=150&section=header&text=RODRIGO%20ROCHA&fontColor=00FF41&fontSize=40&fontAlignY=38&desc=%3E%20junior_full_stack_developer&descAlignY=62&descSize=18&descColor=C9D1D9&fontFamily=Fira+Code" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=650&lines=%24+whoami;Full+Stack+Dev+Intern+%40+Unicage;Migrating+Next.js+%E2%86%92+Astro+%2B+Go+backend;Open+to+Freelance+%26+Junior+Roles)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=650&lines=%24+whoami;Full+Stack+Developer+Intern+%40+Unicage;Migrating+Next.js+%E2%86%92+Astro+%2B+Go+backend;Open+to+Freelance+%26+Junior+Roles)](https://git.io/typing-svg)
 
-![Location](https://img.shields.io/badge/📍-Queijas,_Lisbon-0D1117?style=flat-square&labelColor=0D1117&color=00FF41)
+![Location](https://img.shields.io/badge/Location-Lisbon,_Portugal-0D1117?style=flat-square&labelColor=0D1117&color=00FF41)
 ![Last Commit](https://img.shields.io/github/last-commit/rodrigofariarocha/rodrigofariarocha?style=flat-square&labelColor=0D1117&color=00FF41)
 ![Profile Views](https://komarev.com/ghpvc/?username=rodrigofariarocha&style=flat-square&color=00FF41&label=VIEWS)
 
@@ -14,24 +14,24 @@
 
 ## `$ whoami`
 
-Estudante de TI com base sólida em desenvolvimento full stack. Atualmente a estagiar na **Unicage**, numa equipa que está a migrar a plataforma **MyTherapySpaces** de Next.js para Astro, com um novo backend em Go.
+IT student with a solid foundation in full stack development. Currently interning at **Unicage**, on a team migrating the **MyTherapySpaces** platform from Next.js to Astro, with a new backend built in Go.
 
-Capacidade comprovada de gerir uma agenda exigente — concilio o estágio, os estudos, dois trabalhos part-time e uma rotina de futsal competitivo, sem deixar cair a qualidade em nenhuma das frentes.
+Proven ability to manage a demanding schedule — balancing the internship, my studies, two part-time jobs, and a competitive futsal routine, without dropping quality on any front.
 
-Procuro projetos freelance e oportunidades júnior onde possa aplicar o que aprendi em produtos reais.
+Looking for freelance projects and junior opportunities where I can apply what I've learned to real products.
 
-> 🔭 **Atualmente a trabalhar em:** migração Next.js → Astro + backend Go (MyTherapySpaces, via Unicage)
+> **Currently working on:** Next.js → Astro migration + Go backend (MyTherapySpaces, via Unicage)
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:00FF41&height=3" width="100%"/>
 
 ## `$ ls skills/`
 
-| Categoria | Tecnologias |
+| Category | Technologies |
 |:--|:--|
 | **Frontend** | React.js · Astro · HTML5 · CSS3 · JavaScript |
 | **Backend** | Go · C# · ASP.NET MVC · PHP · C |
-| **Bases de Dados** | SQL · DBeaver |
-| **Ferramentas & Práticas** | Git · Visual Studio · Software Testing |
+| **Databases** | SQL · DBeaver |
+| **Tools & Practices** | Git · Visual Studio · Software Testing |
 | **Soft Skills** | Customer Service · Time Management · Teamwork |
 
 <div align="center">
@@ -72,34 +72,34 @@ Procuro projetos freelance e oportunidades júnior onde possa aplicar o que apre
 ## `$ cat experience.log`
 
 **Full Stack Developer Intern** · Unicage
-`2026 — Presente (Estágio)`
+`2026 — Present (Internship)`
 
-Integrado numa equipa de desenvolvimento na migração e evolução da plataforma **MyTherapySpaces** — um marketplace que conecta utilizadores a profissionais de bem-estar e terapeutas certificados.
+Working within a development team on the migration and evolution of **MyTherapySpaces**, a marketplace connecting users with certified wellness professionals and therapists.
 
-- Migração do frontend de **Next.js para Astro**, com foco em performance e redução de JavaScript desnecessário
-- Desenvolvimento de um novo **backend em Go** para suportar a arquitetura migrada
-- Participação ativa no processo de testes, garantindo estabilidade e paridade funcional durante a transição entre stacks
-- Colaboração na renovação da identidade visual da plataforma, em conjunto com a equipa de design
+- Migrating the frontend from **Next.js to Astro**, focused on performance and reducing unnecessary JavaScript
+- Building a new **Go backend** to support the migrated architecture
+- Actively involved in testing, ensuring stability and feature parity throughout the stack transition
+- Collaborating with the design team on the platform's visual refresh
 
 `Stack: Astro · Go · JavaScript · Testing`
 
 <br/>
 
 **Junior Web Developer Intern** · Multimac Hitto Innovation
-`2023 — 2024 (Estágio)`
-- Desenvolvimento de soluções web dinâmicas com PHP, JavaScript e HTML
-- Manutenção e otimização de sistemas internos
-- Primeiro contacto real com um ambiente profissional de desenvolvimento de software
+`2023 — 2024 (Internship)`
+- Developed dynamic web solutions using PHP, JavaScript, and HTML
+- Assisted in the maintenance and optimization of internal systems
+- First hands-on exposure to a professional software development environment
 
 <details>
-<summary><strong>Outras experiências profissionais</strong> (gestão de tempo & trabalho sob pressão)</summary>
+<summary><strong>Other professional experience</strong> (time management & working under pressure)</summary>
 <br/>
 
-**Event Catering Staff** · S.L. Benfica Stadium — `Atual`
-Serviço de catering em eventos de alta afluência no Estádio da Luz, com trabalho em equipa sob pressão constante.
+**Event Catering Staff** · S.L. Benfica Stadium — `Present`
+Provided high-volume food and beverage service during events at Estádio da Luz, working effectively under pressure in a fast-paced team environment.
 
-**Front Desk Receptionist** · Local Gym — `Atual (fins de semana)`
-Gestão de check-ins, novas inscrições, e procedimentos de abertura/fecho administrativo.
+**Front Desk Receptionist** · Local Gym — `Present (Weekends)`
+Managed client check-ins, new memberships, and facility inquiries, including opening/closing procedures.
 
 </details>
 
@@ -107,55 +107,25 @@ Gestão de check-ins, novas inscrições, e procedimentos de abertura/fecho admi
 
 ## `$ cat education.log`
 
-**Técnico de Gestão e Programação de Sistemas Informáticos**
-Escola Profissional de Tecnologia Digital · `Set 2023 — Presente` · `EQF Nível 4`
-- Desenvolvimento Web: HTML, CSS, JavaScript, React
-- Desenvolvimento de Apps: lógica backend com C# e ASP.NET MVC
-- Sistemas: gestão de bases de dados SQL e configuração de redes
+**Technician in Computer Systems Management & Programming**
+Escola Profissional de Tecnologia Digital · `Sep 2023 — Present` · `EQF Level 4`
+- Web Development: HTML, CSS, JavaScript, React
+- App Development: backend logic with C# and ASP.NET MVC
+- Systems: SQL database management and network configuration
 
-**Certificações**
+**Certifications**
 
 ![Azure](https://img.shields.io/badge/Microsoft%20Certified-Azure%20Fundamentals%20(AZ--900)-0D1117?style=flat-square&logo=microsoftazure&logoColor=00FF41&labelColor=0D1117)
 
-**Idiomas**
+**Languages**
 
-`Português` — Nativo &nbsp;·&nbsp; `Inglês` — C1
+`Portuguese` — Native &nbsp;·&nbsp; `English` — C1
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:00FF41&height=3" width="100%"/>
 
 ## `$ ls achievements/`
 
-🏆 **Campeão Distrital de Futsal** (2ª Divisão) — Sport Queijas e Benfica / A.F. Lisboa · `2023/2024`
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:00FF41&height=3" width="100%"/>
-
-## `$ ls projects/ --featured`
-
-### 🧮 MacroMath — Landing Page
-**Projeto final de curso (PAP)** · Site oficial de uma app de gestão nutricional com IA
-
-![Astro](https://img.shields.io/badge/-Astro-0D1117?style=flat-square&logo=astro&logoColor=00FF41)
-![JS](https://img.shields.io/badge/-JavaScript-0D1117?style=flat-square&logo=javascript&logoColor=00FF41)
-![CSS3](https://img.shields.io/badge/-CSS3-0D1117?style=flat-square&logo=css3&logoColor=00FF41)
-
-- Site 100% estático, gerado com Astro — leve e otimizado para CDN
-- Multilingue (PT · EN · ES), traduzido no cliente
-- Tema claro/escuro persistente, sem flash ao carregar
-- Design system próprio com tokens CSS, animações ao scroll e acessibilidade (`prefers-reduced-motion`)
-
-**[→ Ver repositório](https://github.com/rodrigofariarocha/MacromathLandingPage)**
-
-<br/>
-
-### ⚙️ Desafio1 — REST API
-Mini API REST construída em Go para praticar arquitetura de backend
-
-![Go](https://img.shields.io/badge/-Go-0D1117?style=flat-square&logo=go&logoColor=00FF41)
-
-- Router `chi` com middleware de logging e autenticação por token
-- Endpoints de health-check, pesquisa, perfil de utilizador e echo (JSON)
-
-**[→ Ver repositório](https://github.com/rodrigofariarocha/Desafio1)**
+**District Futsal Champion** (2nd Division) — Sport Queijas e Benfica / A.F. Lisboa · `2023/2024`
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:00FF41&height=3" width="100%"/>
 
@@ -168,7 +138,7 @@ Mini API REST construída em Go para praticar arquitetura de backend
 
 <br/><br/>
 
-<sub>Obrigado pela visita 👾</sub>
+<sub>Thanks for stopping by</sub>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:0D1117&height=60&section=footer" width="100%"/>
 
