@@ -123,8 +123,6 @@ Escola Profissional de Tecnologia Digital · `Sep 2023 — Present` · `EQF Leve
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:00FF41&height=3" width="100%"/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:00FF41&height=3" width="100%"/>
-
 ## `$ cat contact.txt`
 
 <div align="center">
