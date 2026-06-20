@@ -38,6 +38,7 @@ $ ls -la ./skills
 ![C](https://img.shields.io/badge/-C-000000?style=for-the-badge&logo=c&logoColor=00FF41)
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=for-the-badge&logo=mysql&logoColor=00FF41)
 ![Git](https://img.shields.io/badge/-Git-000000?style=for-the-badge&logo=git&logoColor=00FF41)
+![Astro](https://img.shields.io/badge/-Astro-000000?style=for-the-badge&logo=astro&logoColor=00FF41)
 ![Azure](https://img.shields.io/badge/-Azure%20Fundamentals-000000?style=for-the-badge&logo=microsoftazure&logoColor=00FF41)
 
 </div>
@@ -65,17 +66,12 @@ $ git log --stats
 $ ls ./projects --featured
 ```
 
-<!--
-  Edita esta tabela com os teus repos reais (link para cada um).
-  Dica: além desta secção, fixa (Pin) estes repos no teu perfil GitHub
-  -> mais visual e fica logo visível no topo da página.
--->
+<!-- Dica: além desta secção, fixa (Pin) estes repos no teu perfil GitHub -->
 
 | Projeto | Stack | Descrição |
 |---|---|---|
-| [`projeto-1`](https://github.com/rodrigofariarocha/projeto-1) | React · Node | _Substitui por uma descrição curta_ |
-| [`projeto-2`](https://github.com/rodrigofariarocha/projeto-2) | C# · ASP.NET MVC | _Substitui por uma descrição curta_ |
-| [`projeto-3`](https://github.com/rodrigofariarocha/projeto-3) | PHP · SQL | _Substitui por uma descrição curta_ |
+| [`MacroMath — Landing Page`](https://github.com/rodrigofariarocha/MacromathLandingPage) | Astro · JS · CSS | Site oficial da app MacroMath (projeto final de curso / PAP) — gestão de macros com IA, multilingue PT/EN/ES, tema claro/escuro |
+| [`Desafio1`](https://github.com/rodrigofariarocha/Desafio1) | Go · Chi | Mini API REST com middleware de auth e logging, endpoints de health-check, pesquisa e echo |
 
 <br/>
 
