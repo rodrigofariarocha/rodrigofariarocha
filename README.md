@@ -128,7 +128,7 @@ Escola Profissional de Tecnologia Digital · `Sep 2023 — Present` · `EQF Leve
 <div align="center">
 
 [![Email](https://img.shields.io/badge/-Email-0D1117?style=for-the-badge&logo=gmail&logoColor=00FF41)](mailto:rodrigo.faria.rocha1234@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00FF41)](https://linkedin.com/in/SEU-USERNAME-AQUI)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00FF41)](www.linkedin.com/in/rodrigo-faria-rocha-a90931404)
 
 <br/><br/>
 
