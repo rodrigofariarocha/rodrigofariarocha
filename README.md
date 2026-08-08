@@ -1,136 +1,100 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:0D1117&height=150&section=header&text=RODRIGO%20ROCHA&fontColor=00FF41&fontSize=40&fontAlignY=38&desc=%3E%20junior_full_stack_developer&descAlignY=62&descSize=18&descColor=C9D1D9&fontFamily=Fira+Code" width="100%"/>
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:1A3A5C&height=160&section=header&text=Rodrigo%20Rocha&fontColor=4A9EDA&fontSize=38&fontAlignY=42&desc=Junior%20Full%20Stack%20Developer&descAlignY=65&descSize=16&descColor=8B9DC3&fontFamily=Inter)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=650&lines=%24+whoami;Full+Stack+Developer+Intern+%40+Unicage;Migrating+Next.js+%E2%86%92+Astro+%2B+Go+backend;Open+to+Freelance+%26+Junior+Roles)](https://git.io/typing-svg)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=4A9EDA)](https://www.linkedin.com/in/rodrigo-faria-rocha-a90931404)
+[![Email](https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=4A9EDA)](mailto:rodrigo.faria.rocha1234@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=4A9EDA)](https://github.com/rodrigofariarocha)
 
-![Location](https://img.shields.io/badge/Location-Lisbon,_Portugal-0D1117?style=flat-square&labelColor=0D1117&color=00FF41)
-![Last Commit](https://img.shields.io/github/last-commit/rodrigofariarocha/rodrigofariarocha?style=flat-square&labelColor=0D1117&color=00FF41)
-![Profile Views](https://komarev.com/ghpvc/?username=rodrigofariarocha&style=flat-square&color=00FF41&label=VIEWS)
+![Location](https://img.shields.io/badge/Lisbon,_Portugal-0D1117?style=flat-square&logo=googlemaps&logoColor=4A9EDA)
+![Open to work](https://img.shields.io/badge/Open_to_Freelance_%26_Junior_Roles-0D1117?style=flat-square&logoColor=4A9EDA)
+![English](https://img.shields.io/badge/English_C1-0D1117?style=flat-square&logoColor=4A9EDA)
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:00FF41&height=3" width="100%"/>
+---
 
-## `$ whoami`
+## About
 
-IT student with a solid foundation in full stack development. Currently interning at **Unicage**, on a team migrating the **MyTherapySpaces** platform from Next.js to Astro, with a new backend built in Go.
+Full stack developer intern at **Unicage**, currently migrating the **MyTherapySpaces** platform from Next.js to Astro with a new Go backend. My background spans national and international environments — including an Erasmus+ placement in Athens where I worked entirely in English on a cross-cultural technical team.
 
-Proven ability to manage a demanding schedule — balancing the internship, my studies, two part-time jobs, and a competitive futsal routine, without dropping quality on any front.
+I manage a demanding schedule across my internship, studies, and part-time work, and I consistently deliver without dropping quality on any front.
 
-Looking for freelance projects and junior opportunities where I can apply what I've learned to real products.
+> **Currently working on:** Next.js → Astro migration + Go backend at Unicage (MyTherapySpaces)
 
-> **Currently working on:** Next.js → Astro migration + Go backend (MyTherapySpaces, via Unicage)
+---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:00FF41&height=3" width="100%"/>
-
-## `$ ls skills/`
+## Skills
 
 | Category | Technologies |
 |:--|:--|
-| **Frontend** | React.js · Astro · HTML5 · CSS3 · JavaScript |
-| **Backend** | Go · C# · ASP.NET MVC · PHP · C |
-| **Databases** | SQL · DBeaver |
-| **Tools & Practices** | Git · Visual Studio · Software Testing |
-| **Soft Skills** | Customer Service · Time Management · Teamwork |
+| **Frontend** | React · Astro · Next.js · TypeScript · HTML5 · CSS3 · TailwindCSS |
+| **Backend** | Go · C# · ASP.NET MVC · PHP · Python |
+| **Databases** | PostgreSQL · SQL Server · SQLite |
+| **Tools** | Git · GitHub · Linux · VS Code · REST APIs |
 
 <div align="center">
 
-![React](https://img.shields.io/badge/-React-0D1117?style=for-the-badge&logo=react&logoColor=00FF41)
-![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=00FF41)
-![HTML5](https://img.shields.io/badge/-HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=00FF41)
-![CSS3](https://img.shields.io/badge/-CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=00FF41)
-![CSharp](https://img.shields.io/badge/-C%23-0D1117?style=for-the-badge&logo=csharp&logoColor=00FF41)
-![ASP.NET](https://img.shields.io/badge/-ASP.NET%20MVC-0D1117?style=for-the-badge&logo=dotnet&logoColor=00FF41)
-![PHP](https://img.shields.io/badge/-PHP-0D1117?style=for-the-badge&logo=php&logoColor=00FF41)
-![C](https://img.shields.io/badge/-C-0D1117?style=for-the-badge&logo=c&logoColor=00FF41)
-![SQL](https://img.shields.io/badge/-SQL-0D1117?style=for-the-badge&logo=mysql&logoColor=00FF41)
-![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&logoColor=00FF41)
-![Astro](https://img.shields.io/badge/-Astro-0D1117?style=for-the-badge&logo=astro&logoColor=00FF41)
-![Go](https://img.shields.io/badge/-Go-0D1117?style=for-the-badge&logo=go&logoColor=00FF41)
-![Azure](https://img.shields.io/badge/-Azure%20Fundamentals-0D1117?style=for-the-badge&logo=microsoftazure&logoColor=00FF41)
+![React](https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=4A9EDA)
+![Astro](https://img.shields.io/badge/Astro-0D1117?style=for-the-badge&logo=astro&logoColor=4A9EDA)
+![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=4A9EDA)
+![Go](https://img.shields.io/badge/Go-0D1117?style=for-the-badge&logo=go&logoColor=4A9EDA)
+![CSharp](https://img.shields.io/badge/C%23-0D1117?style=for-the-badge&logo=csharp&logoColor=4A9EDA)
+![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=4A9EDA)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=4A9EDA)
+![Git](https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=4A9EDA)
+![Linux](https://img.shields.io/badge/Linux-0D1117?style=for-the-badge&logo=linux&logoColor=4A9EDA)
+![Azure](https://img.shields.io/badge/Azure-0D1117?style=for-the-badge&logo=microsoftazure&logoColor=4A9EDA)
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:00FF41&height=3" width="100%"/>
+---
 
-## `$ git log --stats`
+## Experience
 
-<div align="center">
+**Full Stack Developer Intern** · Unicage · `Apr 2026 — Present`
 
-<br/>
+- Migrating the MyTherapySpaces frontend from Next.js to Astro, focused on performance and reducing unnecessary JavaScript
+- Building a new Go backend to support the migrated architecture
+- Collaborating on PostgreSQL optimization and REST API design
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=rodrigofariarocha&theme=dark&hide_border=true&background=0D1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41" width="60%"/>
+**IT & Software Developer Intern — Erasmus+** · Epanekkinisis, Athens · `Apr 2026 — May 2026`
 
-</div>
+- Built an end-to-end automated hardware diagnostics pipeline with a custom Python CLI script on a bootable Debian Live USB
+- Co-developed a full stack Next.js internal web app to process and convert JSON diagnostics to CSV/Ramp formats
+- Implemented RESTful API routes to sync processed data directly with a cloud database
+- Worked entirely in English across a cross-cultural technical team
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:00FF41&height=3" width="100%"/>
+**Web Developer Intern** · Multimac Hitto Innovation · `2023 — 2024`
 
-## `$ cat experience.log`
+- Developed dynamic web solutions with PHP, JavaScript, and HTML
+- Maintained and optimized internal company systems
 
-**Full Stack Developer Intern** · Unicage
-`2026 — Present (Internship)`
+---
 
-Working within a development team on the migration and evolution of **MyTherapySpaces**, a marketplace connecting users with certified wellness professionals and therapists.
+## Education
 
-- Migrating the frontend from **Next.js to Astro**, focused on performance and reducing unnecessary JavaScript
-- Building a new **Go backend** to support the migrated architecture
-- Actively involved in testing, ensuring stability and feature parity throughout the stack transition
-- Collaborating with the design team on the platform's visual refresh
+**Technician in Computer Systems Management & Programming** · EQF Level 4
+Escola Profissional de Tecnologia Digital · `2023 — 2026` · Final grade: **19/20**
 
-`Stack: Astro · Go · JavaScript · Testing`
-
-<br/>
-
-**Junior Web Developer Intern** · Multimac Hitto Innovation
-`2023 — 2024 (Internship)`
-- Developed dynamic web solutions using PHP, JavaScript, and HTML
-- Assisted in the maintenance and optimization of internal systems
-- First hands-on exposure to a professional software development environment
-
-<details>
-<summary><strong>Other professional experience</strong> (time management & working under pressure)</summary>
-<br/>
-
-**Event Catering Staff** · S.L. Benfica Stadium — `Present`
-Provided high-volume food and beverage service during events at Estádio da Luz, working effectively under pressure in a fast-paced team environment.
-
-**Front Desk Receptionist** · Local Gym — `Present (Weekends)`
-Managed client check-ins, new memberships, and facility inquiries, including opening/closing procedures.
-
-</details>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:00FF41&height=3" width="100%"/>
-
-## `$ cat education.log`
-
-**Technician in Computer Systems Management & Programming**
-Escola Profissional de Tecnologia Digital · `Sep 2023 — Present` · `EQF Level 4`
-- Web Development: HTML, CSS, JavaScript, React
-- App Development: backend logic with C# and ASP.NET MVC
-- Systems: SQL database management and network configuration
+- PAP final project: **MacroMath** — a cross-platform Flutter nutrition app with Gemini AI, macro tracking, and a Supabase backend
 
 **Certifications**
 
-![Azure](https://img.shields.io/badge/Microsoft%20Certified-Azure%20Fundamentals%20(AZ--900)-0D1117?style=flat-square&logo=microsoftazure&logoColor=00FF41&labelColor=0D1117)
+![Azure](https://img.shields.io/badge/Microsoft_Certified-Azure_Fundamentals_(AZ--900)-0D1117?style=flat-square&logo=microsoftazure&logoColor=4A9EDA)
 
 **Languages**
 
 `Portuguese` — Native &nbsp;·&nbsp; `English` — C1
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:00FF41&height=3" width="100%"/>
-
-## `$ cat contact.txt`
+---
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/-Email-0D1117?style=for-the-badge&logo=gmail&logoColor=00FF41)](mailto:rodrigo.faria.rocha1234@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00FF41)](www.linkedin.com/in/rodrigo-faria-rocha-a90931404)
+![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=rodrigofariarocha&theme=dark&hide_border=true&background=0D1117&ring=4A9EDA&fire=4A9EDA&currStreakLabel=4A9EDA)
 
-<br/><br/>
+<br/>
 
-<sub>Thanks for stopping by</sub>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:0D1117&height=60&section=footer" width="100%"/>
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:1A3A5C,100:0D1117&height=100&section=footer)
 
 </div>
