@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Rodrigo Rocha
+# Hi, I'm Rodrigo Rocha
 
 ### Junior Full Stack Developer · Lisbon, Portugal
 
@@ -17,12 +17,12 @@
 ---
 
 Full stack developer based in Lisbon. I build web apps, REST APIs, and the occasional automation script.
-Recently finished a production migration at **Unicage** — Next.js → Astro with a new Go backend.
+Recently finished a production migration at **Unicage** — Next.js to Astro with a new Go backend.
 Open to junior roles and freelance projects.
 
 ---
 
-## 🛠 Tech Stack
+## Stack
 
 ### Frontend
 [![React](https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=4A9EDA)](https://reactjs.org)
@@ -48,7 +48,7 @@ Open to junior roles and freelance projects.
 
 ---
 
-## 🚀 Projects
+## Projects
 
 **[MacroMath](https://github.com/rodrigofariarocha/macromath)** — Cross-platform nutrition app built with Flutter, Supabase, and Gemini AI. Macro tracking, pantry management, and AI-generated meal plans.
 `Flutter` `Dart` `Supabase` `Gemini AI` `Astro`
@@ -58,14 +58,18 @@ Open to junior roles and freelance projects.
 
 ---
 
-## 📊 GitHub Stats
+## Stats
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rodrigofariarocha&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&icon_color=4A9EDA&title_color=4A9EDA&count_private=true)](https://github.com/rodrigofariarocha)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigofariarocha&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=4A9EDA)](https://github.com/rodrigofariarocha)
+<a href="https://github.com/rodrigofariarocha">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rodrigofariarocha&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&icon_color=4A9EDA&title_color=4A9EDA&text_color=8B9DC3&count_private=true&hide_rank=false"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigofariarocha&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=4A9EDA&text_color=8B9DC3&langs_count=8"/>
+</a>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rodrigofariarocha&theme=dark&hide_border=true&background=0D1117&ring=4A9EDA&fire=4A9EDA&currStreakLabel=4A9EDA)](https://github.com/rodrigofariarocha)
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rodrigofariarocha&bg_color=0D1117&color=4A9EDA&line=1A3A5C&point=4A9EDA&area=true&area_color=1A3A5C&hide_border=true" width="100%"/>
 
 ![Snake animation](https://raw.githubusercontent.com/rodrigofariarocha/rodrigofariarocha/output/github-contribution-grid-snake-dark.svg)
 
