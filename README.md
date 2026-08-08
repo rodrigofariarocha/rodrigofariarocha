@@ -1,76 +1,78 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:1A3A5C&height=180&section=header&text=Rodrigo%20Rocha&fontColor=4A9EDA&fontSize=42&fontAlignY=45&desc=Junior%20Full%20Stack%20Developer%20%7C%20Lisbon%2C%20Portugal&descAlignY=65&descSize=15&descColor=8B9DC3&fontFamily=Inter)
+# 👋 Hi, I'm Rodrigo Rocha
+
+### Junior Full Stack Developer · Lisbon, Portugal
+
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Inter&size=18&duration=3000&pause=1000&color=4A9EDA&center=true&vCenter=true&width=600&lines=Building+full+stack+web+applications;Next.js+%E2%86%92+Astro+%2B+Go+%40+Unicage;Open+to+junior+roles+%26+freelance)](https://git.io/typing-svg)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=4A9EDA)](https://www.linkedin.com/in/rodrigo-faria-rocha-a90931404)
 [![Email](https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=4A9EDA)](mailto:rodrigo.faria.rocha1234@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=4A9EDA)](https://github.com/rodrigofariarocha)
 
+![Views](https://komarev.com/ghpvc/?username=rodrigofariarocha&style=flat-square&color=4A9EDA&label=profile+views)
+
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1A3A5C,100:4A9EDA&height=2" width="100%"/>
+---
 
-<br/>
-
-Full stack developer based in Lisbon. I build web apps, APIs, and the occasional automation script.
-Recently wrapped up a production migration at **Unicage** (Next.js → Astro + Go).
+Full stack developer based in Lisbon. I build web apps, REST APIs, and the occasional automation script.
+Recently finished a production migration at **Unicage** — Next.js → Astro with a new Go backend.
 Open to junior roles and freelance projects.
 
-<br/>
+---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1A3A5C,100:4A9EDA&height=2" width="100%"/>
+## 🛠 Tech Stack
 
-## 🛠 Stack
+### Frontend
+[![React](https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=4A9EDA)](https://reactjs.org)
+[![Astro](https://img.shields.io/badge/Astro-0D1117?style=for-the-badge&logo=astro&logoColor=4A9EDA)](https://astro.build)
+[![Next.js](https://img.shields.io/badge/Next.js-0D1117?style=for-the-badge&logo=nextdotjs&logoColor=4A9EDA)](https://nextjs.org)
+[![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=4A9EDA)](https://www.typescriptlang.org)
+[![TailwindCSS](https://img.shields.io/badge/Tailwind-0D1117?style=for-the-badge&logo=tailwindcss&logoColor=4A9EDA)](https://tailwindcss.com)
+[![Flutter](https://img.shields.io/badge/Flutter-0D1117?style=for-the-badge&logo=flutter&logoColor=4A9EDA)](https://flutter.dev)
 
-<div align="center">
+### Backend & Databases
+[![Go](https://img.shields.io/badge/Go-0D1117?style=for-the-badge&logo=go&logoColor=4A9EDA)](https://go.dev)
+[![C#](https://img.shields.io/badge/C%23-0D1117?style=for-the-badge&logo=csharp&logoColor=4A9EDA)](https://dotnet.microsoft.com)
+[![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=4A9EDA)](https://python.org)
+[![PHP](https://img.shields.io/badge/PHP-0D1117?style=for-the-badge&logo=php&logoColor=4A9EDA)](https://php.net)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=4A9EDA)](https://postgresql.org)
+[![SQL Server](https://img.shields.io/badge/SQL_Server-0D1117?style=for-the-badge&logo=microsoftsqlserver&logoColor=4A9EDA)](https://microsoft.com/sql-server)
 
-![React](https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=4A9EDA)
-![Astro](https://img.shields.io/badge/Astro-0D1117?style=for-the-badge&logo=astro&logoColor=4A9EDA)
-![Next.js](https://img.shields.io/badge/Next.js-0D1117?style=for-the-badge&logo=nextdotjs&logoColor=4A9EDA)
-![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=4A9EDA)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-0D1117?style=for-the-badge&logo=tailwindcss&logoColor=4A9EDA)
-![Go](https://img.shields.io/badge/Go-0D1117?style=for-the-badge&logo=go&logoColor=4A9EDA)
-![C#](https://img.shields.io/badge/C%23-0D1117?style=for-the-badge&logo=csharp&logoColor=4A9EDA)
-![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=4A9EDA)
-![PHP](https://img.shields.io/badge/PHP-0D1117?style=for-the-badge&logo=php&logoColor=4A9EDA)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=4A9EDA)
-![Flutter](https://img.shields.io/badge/Flutter-0D1117?style=for-the-badge&logo=flutter&logoColor=4A9EDA)
-![Linux](https://img.shields.io/badge/Linux-0D1117?style=for-the-badge&logo=linux&logoColor=4A9EDA)
+### Tools
+[![Git](https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=4A9EDA)](https://git-scm.com)
+[![Linux](https://img.shields.io/badge/Linux-0D1117?style=for-the-badge&logo=linux&logoColor=4A9EDA)](https://linux.org)
+[![VS Code](https://img.shields.io/badge/VS_Code-0D1117?style=for-the-badge&logo=visualstudiocode&logoColor=4A9EDA)](https://code.visualstudio.com)
+[![Azure](https://img.shields.io/badge/Azure-0D1117?style=for-the-badge&logo=microsoftazure&logoColor=4A9EDA)](https://azure.microsoft.com)
 
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1A3A5C,100:4A9EDA&height=2" width="100%"/>
+---
 
 ## 🚀 Projects
 
-### [MacroMath](https://github.com/rodrigofariarocha/macromath)
-Cross-platform nutrition app with AI — built with Flutter, Supabase, and Gemini AI.
-Macro tracking, pantry management, and AI-generated meal plans.
+**[MacroMath](https://github.com/rodrigofariarocha/macromath)** — Cross-platform nutrition app built with Flutter, Supabase, and Gemini AI. Macro tracking, pantry management, and AI-generated meal plans.
 `Flutter` `Dart` `Supabase` `Gemini AI` `Astro`
 
-### [RochaCinema](https://github.com/rodrigofariarocha/RochaCinema-EPTD)
-Full-featured cinema booking platform with PDF tickets, QR codes, loyalty rewards, and an admin dashboard.
-Integrated TMDB API for movie metadata and Gemini AI for recommendations.
+**[RochaCinema](https://github.com/rodrigofariarocha/RochaCinema-EPTD)** — Full cinema booking platform with PDF tickets, QR codes, loyalty rewards, and an admin dashboard. Powered by TMDB and Gemini AI.
 `ASP.NET Core 9` `C#` `SQL Server` `Entity Framework` `TMDB` `Gemini AI`
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1A3A5C,100:4A9EDA&height=2" width="100%"/>
+---
 
-## 📊 Stats
+## 📊 GitHub Stats
 
 <div align="center">
 
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=rodrigofariarocha&theme=dark&hide_border=true&background=0D1117&ring=4A9EDA&fire=4A9EDA&currStreakLabel=4A9EDA)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rodrigofariarocha&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&icon_color=4A9EDA&title_color=4A9EDA&count_private=true)](https://github.com/rodrigofariarocha)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigofariarocha&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=4A9EDA)](https://github.com/rodrigofariarocha)
 
-![Stats](https://github-readme-stats.vercel.app/api?username=rodrigofariarocha&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&icon_color=4A9EDA&title_color=4A9EDA&count_private=true)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rodrigofariarocha&theme=dark&hide_border=true&background=0D1117&ring=4A9EDA&fire=4A9EDA&currStreakLabel=4A9EDA)](https://github.com/rodrigofariarocha)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigofariarocha&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=4A9EDA)
+![Snake animation](https://raw.githubusercontent.com/rodrigofariarocha/rodrigofariarocha/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1A3A5C,100:4A9EDA&height=2" width="100%"/>
+---
 
 <div align="center">
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:1A3A5C,100:0D1117&height=120&section=footer)
-
+<sub><i>"The secret of getting ahead is getting started."</i> — Mark Twain</sub>
 </div>
