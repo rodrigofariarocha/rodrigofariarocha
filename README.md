@@ -61,14 +61,11 @@ Integrated TMDB API for movie metadata and Gemini AI for recommendations.
 
 <div align="center">
 
-<a href="https://github.com/rodrigofariarocha">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rodrigofariarocha&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&icon_color=4A9EDA&title_color=4A9EDA&text_color=8B9DC3&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigofariarocha&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=4A9EDA&text_color=8B9DC3&langs_count=8"/>
-</a>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rodrigofariarocha&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&icon_color=4A9EDA&title_color=4A9EDA&text_color=8B9DC3&count_private=true&card_width=495)
 
-<br/><br/>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigofariarocha&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=4A9EDA&text_color=8B9DC3&langs_count=8&card_width=495)
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rodrigofariarocha&bg_color=0D1117&color=4A9EDA&line=1A3A5C&point=4A9EDA&area=true&area_color=1A3A5C&hide_border=true" width="100%"/>
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rodrigofariarocha&bg_color=0D1117&color=4A9EDA&line=1A3A5C&point=4A9EDA&area=true&area_color=1A3A5C&hide_border=true)
 
 </div>
 
