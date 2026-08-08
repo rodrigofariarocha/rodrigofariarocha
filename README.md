@@ -6,8 +6,6 @@
 [![Email](https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=4A9EDA)](mailto:rodrigo.faria.rocha1234@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=4A9EDA)](https://github.com/rodrigofariarocha)
 
-![Views](https://komarev.com/ghpvc/?username=rodrigofariarocha&style=flat-square&color=4A9EDA&label=profile+views)
-
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1A3A5C,100:4A9EDA&height=2" width="100%"/>
