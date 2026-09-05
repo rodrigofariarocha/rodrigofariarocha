@@ -65,7 +65,11 @@ Integrated TMDB API for movie metadata and Gemini AI for recommendations.
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rodrigofariarocha&bg_color=0D1117&color=4A9EDA&line=1A3A5C&point=4A9EDA&area=true&area_color=1A3A5C&hide_border=true)
 
+</div>
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1A3A5C,100:4A9EDA&height=2" width="100%"/>
+
+<div align="center">
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:1A3A5C,100:0D1117&height=120&section=footer)
 
