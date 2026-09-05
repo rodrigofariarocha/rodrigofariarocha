@@ -61,9 +61,9 @@ Integrated TMDB API for movie metadata and Gemini AI for recommendations.
 
 <div align="center">
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rodrigofariarocha&theme=dark&hide_border=true&background=0D1117&ring=4A9EDA&fire=4A9EDA&currStreakLabel=4A9EDA&sideLabels=8B9DC3&dates=8B9DC3&sideNums=4A9EDA)](https://github.com/rodrigofariarocha)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rodrigofariarocha&show_icons=true&hide_border=true&bg_color=0D1117&title_color=4A9EDA&icon_color=4A9EDA&text_color=8B9DC3)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rodrigofariarocha&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=4A9EDA&icon_color=4A9EDA&text_color=8B9DC3)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigofariarocha&layout=compact&hide_border=true&bg_color=0D1117&title_color=4A9EDA&text_color=8B9DC3)
 
 </div>
 
