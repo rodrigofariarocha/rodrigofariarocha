@@ -14,8 +14,7 @@
 
 <br/>
 
-Full stack developer based in Lisbon, currently working as a developer on healthcare staffing software.
-I build web apps, REST APIs in Go, and mobile-first products that people actually use day to day.
+Full stack developer based in Lisbon. I build web apps, REST APIs in Go, and mobile-first products that people actually use day to day.
 
 Before that, I interned at **Unicage**, where I migrated a production site from Next.js to Astro backed by a new Go API,
 and shipped **MacroMath**, a nutrition app now live on the market.
@@ -23,20 +22,6 @@ and shipped **MacroMath**, a nutrition app now live on the market.
 Outside of work I take on a small number of freelance projects for local businesses.
 
 <br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1A3A5C,100:4A9EDA&height=2" width="100%"/>
-
-## Currently Building
-
-**Healthcare shift-staffing platform** — at work
-A platform where an operator manages institutions (pharmacies, hospitals) and health professionals who apply for open shifts. Admins approve entities and assign who works each shift.
-`SvelteKit` `TypeScript` `Go` `PostgreSQL` `PWA`
-
-**Barbershop booking and management system** — freelance
-Replacing a paid booking SaaS for a local barbershop. Clients book from a simple link, barbers see their own schedule, and the owner manages staff, hours and revenue from phone or desktop. Installable as a PWA, no app store needed.
-
-**E-commerce store for a family retail business** — freelance
-Taking a physical shop online with a product catalogue and online ordering.
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1A3A5C,100:4A9EDA&height=2" width="100%"/>
 
@@ -86,18 +71,6 @@ Integrated TMDB API for movie metadata and Gemini AI for recommendations.
 | **Intern** — Unicage | Next.js to Astro migration, Go backend |
 | **Intern** — Multimac Hitto Innovation | PHP, JavaScript, HTML |
 | **Erasmus+** — Epanekkinisis, Athens | Automated hardware diagnostics pipeline (Python, Next.js) |
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1A3A5C,100:4A9EDA&height=2" width="100%"/>
-
-## Stats
-
-<div align="center">
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rodrigofariarocha&theme=dark&hide_border=true&background=0D1117&ring=4A9EDA&fire=4A9EDA&currStreakLabel=4A9EDA&sideLabels=8B9DC3&dates=8B9DC3&sideNums=4A9EDA)](https://github.com/rodrigofariarocha)
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rodrigofariarocha&bg_color=0D1117&color=4A9EDA&line=1A3A5C&point=4A9EDA&area=true&area_color=1A3A5C&hide_border=true)
-
-</div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1A3A5C,100:4A9EDA&height=2" width="100%"/>
 
